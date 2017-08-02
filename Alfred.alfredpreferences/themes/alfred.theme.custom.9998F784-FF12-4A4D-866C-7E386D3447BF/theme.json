@@ -1,0 +1,60 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 14,
+        "colorSelected" : "#6465B9FF",
+        "font" : "Futura",
+        "color" : "#A9A9A9FF"
+      },
+      "shortcut" : {
+        "size" : 20,
+        "colorSelected" : "#3E4FF9FF",
+        "font" : "Futura",
+        "color" : "#21212100"
+      },
+      "backgroundSelected" : "#F7F6F800",
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#2B2CE5FF",
+        "font" : "Futura",
+        "color" : "#808080FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "separator" : {
+      "color" : "#FEFDFF00",
+      "thickness" : 1
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#F4F4F400",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "Futura",
+        "color" : "#000000FF"
+      },
+      "backgroundSelected" : "#B5D5FFFF"
+    },
+    "scrollbar" : {
+      "color" : "#D5D5D5FF",
+      "thickness" : 2
+    },
+    "name" : "Light and Smooth 2.0 (resamsel) (v2)",
+    "window" : {
+      "color" : "#F4F4F4F2",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#91909200",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#F1826099",
+        "font" : "Lucida Grande",
+        "color" : "#5A5A5AFF"
+      },
+      "shortcut" : {
+        "size" : 20,
+        "colorSelected" : "#26C26AFF",
+        "font" : "Lucida Grande",
+        "color" : "#CC1C00FF"
+      },
+      "backgroundSelected" : "#41412FFF",
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#5293D8CC",
+        "font" : "Helvetica Neue Light",
+        "color" : "#FFFFFF7F"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 4,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#2E3643FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#F92672FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#DBDBDDFF"
+      },
+      "backgroundSelected" : "#383830FF"
+    },
+    "window" : {
+      "color" : "#2A2D33FF",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 0,
+      "paddingVertical" : 10
+    },
+    "credit" : "Ryne Okimoto",
+    "separator" : {
+      "color" : "#3F3E3EFF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#F18260FF",
+      "thickness" : 2
+    },
+    "name" : "Predawn (v2)"
+  }
+}

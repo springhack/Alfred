@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 9,
+        "colorSelected" : "#F0F0F0FF",
+        "font" : "Lucida Grande",
+        "color" : "#606060FF"
+      },
+      "shortcut" : {
+        "size" : 10,
+        "colorSelected" : "#F0F0F0FF",
+        "font" : "Lucida Grande",
+        "color" : "#606060FF"
+      },
+      "backgroundSelected" : "#00000000",
+      "text" : {
+        "size" : 13,
+        "colorSelected" : "#F0F0F0FF",
+        "font" : "Lucida Grande",
+        "color" : "#606060FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 0,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#00000000",
+      "spacing" : 10,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#F0F0F0FF",
+        "font" : "Lucida Grande",
+        "color" : "#F0F0F0FF"
+      },
+      "backgroundSelected" : "#606060FF"
+    },
+    "window" : {
+      "color" : "#101010F2",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "elseym",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#00000000",
+      "thickness" : 2
+    },
+    "name" : "darkel (v2)"
+  }
+}

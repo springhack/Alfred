@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#7F7F7FFF",
+        "font" : "Futura",
+        "color" : "#A6A6A6FF"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#5D007DFF",
+        "font" : "Futura",
+        "color" : "#5D007DFF"
+      },
+      "backgroundSelected" : "#D1D1D1FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#191919FF",
+        "font" : "Futura",
+        "color" : "#191919FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 6,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#F8F8F8FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "Futura",
+        "color" : "#000000FF"
+      },
+      "backgroundSelected" : "#FF40FFFF"
+    },
+    "window" : {
+      "color" : "#EBEBEBFF",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#1919197F",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 10
+    },
+    "credit" : "Pedram",
+    "separator" : {
+      "color" : "#D5D5D5FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#D5D5D5FF",
+      "thickness" : 2
+    },
+    "name" : "Pedram (v2)"
+  }
+}

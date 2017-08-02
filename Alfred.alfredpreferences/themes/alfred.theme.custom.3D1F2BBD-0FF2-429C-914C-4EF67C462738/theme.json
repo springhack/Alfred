@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#0000006B",
+        "font" : "Menlo",
+        "color" : "#00000068"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#000000CC",
+        "font" : "Menlo",
+        "color" : "#0000004C"
+      },
+      "backgroundSelected" : "#0000000F",
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#000000CC",
+        "font" : "Helvetica Neue Light",
+        "color" : "#000000CC"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#00000000",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#000000CC"
+      },
+      "backgroundSelected" : "#B5D5FFFF"
+    },
+    "window" : {
+      "color" : "#FFFFFFE5",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#00000000",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "Zander Martineau",
+    "separator" : {
+      "color" : "#00000000",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#FFFFFF6D",
+      "thickness" : 2
+    },
+    "name" : "Horse (v2)"
+  }
+}
